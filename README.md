@@ -4,32 +4,26 @@ A simple and responsive **Prayer Times** web application built with **React + Ty
 
 The application allows users to select a city and view the daily prayer times for that city. Prayer times are retrieved dynamically from the **AlAdhan API** based on the selected city's latitude and longitude.
 
-## 📸 Project Preview
 
-> You can add your project screenshots here.
-
-```md
-![Prayer Times Screenshot](./images/screenshot.png)
-```
 
 📸 Project Screenshots
 🕌 General View
 
-(./src/assets/Main-Page.png)
+![General View](./src/assets/MainPage.png)
 
 
 
 
 📍 City Selection
 
-(./src/assets/Selecting-the-City.png)
+ ![City Selection](./src/assets/SelectingTheCity.png)
 
 
 
 
 📱 Responsive Design
 
-(./src/assets/Responsive-Design.png)
+![Responsive Design](./src/assets/ResponsiveDesign.png)
 
 ## ✨ Features
 
